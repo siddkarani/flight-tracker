@@ -1,6 +1,6 @@
 // ── CONFIG ────────────────────────────────────────────────────────────────────
 // After deploying your worker, paste its URL here:
-const WORKER_URL = "https://flight-tracker-worker.YOUR_SUBDOMAIN.workers.dev";
+const WORKER_URL = "https://flight-tracker-worker.sidd-karani06.workers.dev";
 
 const GLOBE_RADIUS = 5;
 const PLANE_SIZE   = 0.06;
